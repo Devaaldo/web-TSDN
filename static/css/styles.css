@@ -369,7 +369,7 @@ body.dark .switch::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 60vh;
   background: var(--primary-color-light);
 }
 
